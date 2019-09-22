@@ -1,0 +1,28 @@
+FRONTEND
+splash page
+	admin login
+		manage clients
+			client list
+				products available for client
+		manage profile
+			name
+			email address for orders
+		manage orders
+			orders log
+				mark completed
+				delete
+				edit
+		manage products
+			producer
+				filter/organize list of products
+				product
+	client login
+		submit new order
+			delivery / pickup
+
+BACKEND
+fake backend file with req'd data
+move to seperate repo
+
+
+SERVER

@@ -1,0 +1,47 @@
+.App {
+  /* background-color: slategray; */
+  height: 100vh;
+  width: 100vw;
+}
+
+.splash {
+  display: flex;
+  flex-direction: column;
+  background-color: #3c70a4;
+  height: 100vh;
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+}
+
+.clientbutton {
+  /* margin-top: 200px; */
+  height: 80px;
+  width: 200px;
+  background-color: #da9833;
+  border: 2px solid white;
+  border-radius: 10px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 18px;
+  margin: 10px;
+}
+
+.adminbutton {
+  background-color: transparent;
+  border: 2px solid transparent;
+  /* color: #3c70a4; */
+  /* padding: 15px 32px; */
+  text-align: center;
+  font-size: 14px;
+  margin: 10px;
+  /* margin-bottom: 10vh; */
+}
+
+
+/* COLOR SCHEME
+highlight #d9eeec
+main #64b2cd
+dark #3c70a4
+button #da9833 */
